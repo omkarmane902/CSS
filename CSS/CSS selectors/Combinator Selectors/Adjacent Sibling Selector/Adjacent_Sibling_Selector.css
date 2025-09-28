@@ -1,0 +1,83 @@
+ header h1 + p{
+      color: rgb(4, 5, 5);
+
+      font-family: sans-serif;
+}
+
+header h1 + p + p {
+     
+    font-family: monospace;
+    color: blueviolet;
+}
+
+header h1 + p + p + p {
+     
+    font-family: monospace;
+    color: blueviolet;
+}
+
+header h1 + p + p + p  + p{
+     
+    font-family: monospace;
+    color: blueviolet;
+}
+header h1 + p + p + p  + p + section{
+     
+    font-family: sans-serif;
+    color: rgb(9, 12, 193);
+}
+
+
+section div h1 {
+    color: brown;
+}
+
+section div h1 + p {
+    font-family: sans-serif;
+}
+
+section div h1 + p + p{
+    font-family: sans-serif;
+    color: blueviolet;
+}
+section div h1 + p + p + p{ 
+    font-family: sans-serif;
+    color: blueviolet;
+}
+
+section div h1 + p + p + p + section  p {
+    font-family:monospace ;
+    color: chocolate;
+}
+
+footer div h1{
+
+    font-family: sans-serif;
+    color: chartreuse;
+}
+
+footer div h1 + p {
+    font-family: monospace;
+    color: blue;
+}
+footer div h1 + p + p {
+    font-family: monospace;
+    color: blue;
+}
+
+footer div h1 + p + p + p {
+    font-family: monospace;
+    color: blue;
+}
+
+footer div h1 + p + p + p + p {
+    font-family: monospace;
+    color: blue;
+}
+
+
+footer div h1 + p + p + p + p + P {
+    font-family: monospace;  
+    color: rgb(216, 11, 148);
+}
+

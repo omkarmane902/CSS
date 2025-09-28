@@ -1,0 +1,36 @@
+
+<!--फक्त direct child elements target करण्यासाठी-->
+body > div > section > P {
+    background-color: aqua;
+}
+
+
+body > footer > div {
+    color: rgb(220, 17, 210);
+    font-family: sans-serif;
+}
+
+body > footer > p {
+
+    color: blue;
+    font-family: fantasy;
+}
+
+body > div > div > p{
+    color: rgb(20, 196, 32);
+}
+
+body > h1{
+    font-family: monospace;
+    font-weight: 800;
+    color: rgb(218, 10, 10);
+}
+body > div > p{
+    font-size: x-large;
+    color: rgb(232, 147, 20);
+}
+
+body > div > header{
+    color: rgb(230, 212, 7);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

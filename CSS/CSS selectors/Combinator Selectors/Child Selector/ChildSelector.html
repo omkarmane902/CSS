@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Child Selector Example</title>
+<link rel="stylesheet" href="./ChildSelector.css">
+</head>
+<body>
+
+  <h1>Child Selector Demonstration</h1>
+
+  <div>
+    <header>
+    <p>This is a direct child paragraph of the div.</p>
+    </header>
+    <p>Another direct child paragraph of the div.</p>
+    <section>
+      <p>This paragraph is *not* a direct child of the div (it's a child of section).</p>
+    </section>
+    <div>
+    <p>A third direct child paragraph.</p>
+    </div>
+  </div>
+   
+  <footer>
+    <div>
+  <p>This paragraph is outside the div and will not be styled by `div > p`.</p>
+   </div>
+  <p>This paragraph contains a <span>bold span element</span> as a direct child.</p>
+ </footer>
+</body>
+</html>
