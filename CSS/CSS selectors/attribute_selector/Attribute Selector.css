@@ -1,0 +1,36 @@
+/* 1. [attr] → attribute असलेले element */
+input[placeholder] {
+  border: 2px solid orange;
+}
+
+/* 2. [attr="value"] → exact value match */
+input[id="om"] {
+  background-color: lightblue;
+}
+
+/* 3. [attr~="value"] → class/word मध्ये value */
+p[class~="highlight"] {
+  color: red;
+}
+
+/* 4. [attr|="value"] → value किंवा value- ने सुरू झालेले */
+p[lang|="en"] {
+  font-style: italic;
+  color: green;
+}
+
+/* 5. [attr^="value"] → सुरू होताना value */
+input[id^="om"] {
+  background-color: lightyellow;
+}
+
+/* 6. [attr$="value"] → शेवटी value */
+a[href$=".com"] {
+  color: blue;
+}
+
+/* 7. [attr*="value"] → मध्ये कुठेही value */
+a[href*="google"] {
+  font-weight: bold;
+  background-color: lightgreen;
+}
