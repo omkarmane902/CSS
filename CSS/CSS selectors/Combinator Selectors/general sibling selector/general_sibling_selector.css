@@ -1,0 +1,10 @@
+h2 ~ section {
+   background-color:rgb(24, 146, 216) ;
+   font-family: fantasy;
+}
+
+div + footer ~ div {
+  background-color: red;
+  font-family: cursive;
+  color: white;
+}
