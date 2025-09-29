@@ -1,0 +1,6 @@
+/*  ::before → element च्या आधी virtual content insert करतो.  */
+
+p::before{
+    content: "👉 ";
+  color: green;
+}

@@ -1,0 +1,8 @@
+/*👉 ::marker हा pseudo-element list items (<li>) च्या bullet / number ला style करण्यासाठी वापरला जातो. */
+
+
+li::marker{
+    color: red;
+  font-size: 20px;
+  content: "👉 "; 
+}

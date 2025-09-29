@@ -1,0 +1,9 @@
+/*  ::first-letter → फक्त पहिली ओळ style करते.  */
+
+p::first-letter{
+    font-family: sans-serif;
+    color: rgb(210, 21, 21);
+
+    font-size: xx-large;
+
+}

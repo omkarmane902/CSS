@@ -1,0 +1,7 @@
+/* ::selection → text select केल्यावर style (highlight color).*/
+
+
+h1::selection{
+ background-color: rgb(255, 0, 166);
+  color: rgb(228, 221, 221);
+}
