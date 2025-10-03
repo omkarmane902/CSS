@@ -1,0 +1,45 @@
+.div1 {
+    
+    width: 650px; 
+    margin: 20px auto; 
+    padding: 5px; 
+    background-color: #c6c8c8ff; 
+}
+
+.div2{
+    display: flex;
+    
+    
+    
+}
+.div3{
+     height: 400px;
+     width: 270px;
+     margin-right: 5px;
+     background-color: brown;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.div4{
+    height:200px ;
+    background-color: yellow;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div5{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+.div6{
+    background-color: palevioletred;
+    height: 70px;
+    
+}

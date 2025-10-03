@@ -1,0 +1,45 @@
+.c1{
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: start;
+}
+
+
+.c2{
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+.c3{
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: end;
+}
+
+
+.c4{
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.c5{
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.c6{
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
