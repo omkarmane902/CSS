@@ -1,14 +1,16 @@
-.c1 div {
-  width: 100px;      /* 👈 give width */
-  height: 100px;
-  border: 2px solid red;
-  margin-bottom: 20px;
+div{
+  height: 170px;
+  width: 170px;
+  border: 1px solid;
+ 
 }
 
-
 .c1{
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-
+  height: auto;
+  width: 100%;
+   display: flex;
+  gap: 15PX;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
