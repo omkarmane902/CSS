@@ -1,0 +1,30 @@
+section>p{
+    height: 140px;
+    width: 150px;
+    border: 2px solid black;
+     overflow: auto;
+}
+section{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+   
+}
+
+footer>p{
+    height: 140px;
+    width: 150px;
+    border: 2px solid black;
+    overflow: hidden;
+    
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+   
+}
