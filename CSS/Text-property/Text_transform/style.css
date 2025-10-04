@@ -1,0 +1,11 @@
+header > h1{
+    text-transform: uppercase;
+}
+
+section > h1{
+    text-transform: lowercase;
+}
+
+footer > h1{
+    text-transform: capitalize;
+}

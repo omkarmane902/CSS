@@ -1,0 +1,21 @@
+h1{
+   text-decoration: underline wavy  green 3px;
+   
+
+}
+
+p{
+    text-decoration: dotted overline orange 4px;
+    font-size: xx-large;
+}
+
+span{
+   
+    text-decoration: dashed  line-through coral 4px;
+    
+    font-size: xx-large;
+}
+b{
+    text-decoration: dotted overline rosybrown 3px;
+    font-size: xx-large;
+}

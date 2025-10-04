@@ -1,0 +1,11 @@
+h1{
+    text-shadow: 2px 2px 2px orange;
+}
+
+
+body{
+    display: flex;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+}

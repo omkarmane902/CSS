@@ -1,0 +1,8 @@
+p{
+   text-indent: 100px;
+}
+
+
+section > p{ 
+    text-wrap: inherit;
+}

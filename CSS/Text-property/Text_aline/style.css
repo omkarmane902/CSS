@@ -1,0 +1,24 @@
+div{
+
+   height: 100px;
+   background-color: cadetblue;
+}
+
+p{
+    text-align: center;
+}
+
+
+section{
+   height: 100px;
+   background-color: rgb(10, 8, 96); 
+
+   text-align: end;
+}
+
+
+footer{
+    height: 100px;
+   background-color: rgb(161, 31, 135);  
+   text-align: start;
+}
