@@ -1,0 +1,14 @@
+h1{
+    height: 60px;
+    background-color: brown;
+    /* position: static; */
+
+    /* position: fixed; */
+
+    /* position: sticky; */
+
+    /* position: absolute; */
+    position: relative;
+    top: 0px;
+    left: 190px;
+}
